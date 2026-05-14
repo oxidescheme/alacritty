@@ -1,8 +1,8 @@
 [colors.primary]
 background = "#161616"
 foreground = "#cecece"
-dim_foreground = "#8f8f8f"
-bright_foreground = "#dedede"
+dim_foreground = "#808080"
+bright_foreground = "#eeeeee"
 
 [colors.cursor]
 text = "#161616"
@@ -14,7 +14,7 @@ cursor = "#3ba6f5"
 
 [colors.search.matches]
 foreground = "#161616"
-background = "#8f8f8f"
+background = "#808080"
 
 [colors.search.focused_match]
 foreground = "#161616"
@@ -22,7 +22,7 @@ background = "#5bb661"
 
 [colors.footer_bar]
 foreground = "#161616"
-background = "#8f8f8f"
+background = "#808080"
 
 [colors.hints.start]
 foreground = "#161616"
@@ -30,14 +30,14 @@ background = "#c39900"
 
 [colors.hints.end]
 foreground = "#161616"
-background = "#8f8f8f"
+background = "#808080"
 
 [colors.selection]
 text = "#cecece"
-background = "#262626"
+background = "#222222"
 
 [colors.normal]
-black = "#262626"
+black = "#222222"
 red = "#ed756e"
 green = "#5bb661"
 yellow = "#c39900"
@@ -47,14 +47,14 @@ cyan = "#00baaa"
 white = "#cecece"
 
 [colors.bright]
-black = "#8f8f8f"
+black = "#808080"
 red = "#ff9890"
 green = "#7bd77f"
 yellow = "#e3b831"
 blue = "#6fc6ff"
 magenta = "#b5b2ff"
 cyan = "#00dcca"
-white = "#dedede"
+white = "#eeeeee"
 
 [[colors.indexed_colors]]
 index = 16
@@ -62,4 +62,4 @@ color = "#e48233"
 
 [[colors.indexed_colors]]
 index = 17
-color = "#bebebe"
+color = "#aeaeae"
